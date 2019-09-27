@@ -1,0 +1,4 @@
+apiItems = {
+        { id: 1, name: "Malaria Survey API", entries: this.malaria_entries },
+        { id: 2, name: "Gender Based Violence Survey API", entries: this.gbv_entries },
+        { id: 3, name: "SME Survey API", entries: this.sme_entries }}
